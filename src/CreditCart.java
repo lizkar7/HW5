@@ -29,7 +29,6 @@ class CreditCart {
         }
     }
 
-
     String AllInformationAboutCart() {
         System.out.println("Номер счета: " + accountNum + "\nСумма на счету: " + accountSum + "\n");
         return "";
